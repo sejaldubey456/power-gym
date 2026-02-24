@@ -14,7 +14,7 @@ function Footer() {
               </h3>
               <p className="mt-4 text-gray-400 text-sm leading-relaxed">
                 More than a gym — a lifestyle. We help you build strength,
-                confidence, and discipline.
+                confidence, and discipline. Hello2
               </p>
             </div>
 

@@ -25,7 +25,7 @@ function Hero() {
 
           <p className="mt-6 text-gray-300 max-w-lg">
             Train harder, get stronger, and become the best version of yourself.
-            Join our professional gym with expert trainers.
+            Join our professional gym with expert trainers. Hello
           </p>
 
           <div className="mt-8 flex gap-4">
